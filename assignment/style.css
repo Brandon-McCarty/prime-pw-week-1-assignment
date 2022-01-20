@@ -18,8 +18,21 @@ p {
 }
 
 .vader {
-  border: 4px solid #FFE81F
+  border: 4px solid #FFE81F;
 }
+
+.game {
+  width: 510px;
+  height:auto;
+  border: 4px solid #107C10;
+}
+
+.lake {
+  width: 510px;
+  height:auto;
+  border: 4px solid #1e3f5a;
+}
+
 ul {
   font-size: 25px;
   font-family: fantasy;
