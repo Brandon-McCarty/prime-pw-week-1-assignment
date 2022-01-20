@@ -16,6 +16,14 @@ p {
     font-style: italic;
     color: navy;
 }
+
+.vader {
+  border: 4px solid #FFE81F
+}
+ul {
+  font-size: 25px;
+  font-family: fantasy;
+}
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
