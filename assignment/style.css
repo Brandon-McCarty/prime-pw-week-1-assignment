@@ -1,8 +1,21 @@
 body {
     background-color: aqua;
-    margin: 10% 20%;
+    margin: 5% 10%;
 }/* Give your page a fun background color */
 
+.header {
+    background-color: firebrick;
+    text-align: center;
+}
+
+.footer {
+    background-color: goldenrod;
+}
+
+p {
+    font-style: italic;
+    color: navy;
+}
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
